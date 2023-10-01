@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset = "utf-8">
+    <title>Welcome</title>
+</head>
+<body>
+    <h1><a href="index.html">WEB</a></h1>
+    <ol>
+        <li><a href="1.html">HTML</a></li>
+        <li><a href="2.html">CSS</a></li>
+        <li><a href="3.html">JavaScript</a></li>
+    </ol>
+    <ul>
+        <li>john</li>
+        <li>me</li>
+        <li>anyone</li>
+    </ul>
+    <h1> WEB </h1>
+    <p>Webとは、インターネット上のさまざまな情報(テキスト・画像・動画など)の閲覧を可能にするシステムのことです。
+
+        WebはWorld Wide Web(ワールドワイドウェブ)の略称で、直訳すると「世界規模のくもの巣」になります。無数のコンテンツがまるでくもの巣のように、世界中に結び付けられていることから、そのように名づけられました。.</p>
+</body>
+
+</html>
+
